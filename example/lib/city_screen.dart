@@ -73,7 +73,7 @@ class _CityScreenState extends State<CityScreen> {
                         cityName = '';
                         return;
                       }
-                      double temp = weatherData['main']['temp'];
+                      double temp = weatherData['main']['temp'].toDouble();
                       print(temp);
                       temperature = temp.toInt();
                       weatherMessage = weatherData['weather'][0]['description'];
