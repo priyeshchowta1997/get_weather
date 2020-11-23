@@ -2,7 +2,7 @@ name: get_weather
 description: A new Flutter package to fetch weather by giving city name.
 version: 0.0.1
 author: priyesh chowta<priyesh.chowta.pc@gmail.com>
-homepage:
+homepage: https://github.com/priyeshchowta1997/get_weather
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
