@@ -26,7 +26,7 @@ import 'package:get_weather/get_weather.dart';
 
  you should also specify the  city name to obtain the weather details  
 
-```dart
+
  var weatherData = await weather.getCityWeather(cityName);
 ```
 
